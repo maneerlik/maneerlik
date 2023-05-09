@@ -31,8 +31,13 @@ I am a Full Stack QA (Quality Assurance) Engineer from Russia.
 <!-- https://github.com/devicons/devicon/ -->
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="37" height="37"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="37" height="37"/>&nbsp;
+	<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/allure.png" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/junit.png" title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/junit5.png" title="JUnit5" alt="JUnit5" width="35" height="35"/>&nbsp;
+	<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/mockito.png" title="Mockito" alt="Mockito" width="37" height="37"/>&nbsp;
+	<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/selenium.png" title="Selenium" alt="Selenium" width="35" height="35"/>&nbsp;
 </div>
 
 ---
