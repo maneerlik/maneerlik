@@ -36,7 +36,7 @@ I am a Full Stack QA (Quality Assurance) Engineer from Russia.
 	<a href="https://www.postgresql.org/docs/">
 		<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="37" height="37"/>
 	</a>&nbsp;
-	<a href="https://git-scm.com/">
+	<a href="https://git-scm.com/docs">
 		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="37" height="37"/>
 	</a>&nbsp;
 	<a href="https://docs.qameta.io/allure/">
