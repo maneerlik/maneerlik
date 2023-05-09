@@ -1,5 +1,6 @@
 <div id="header" align="center">
-	<img src="https://github.com/maneerlik/readme-best/raw/main/pic/programmer.png" width="100"/>
+	<!-- ![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png) -->
+	<img src="https://github.com/maneerlik/common/raw/main/pic/programmer.png" width="100"/>
 	<!-- https://shields.io/ -->
 	<div id="badges">
   		<a href="your-linkedin-URL">
