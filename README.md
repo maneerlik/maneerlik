@@ -4,10 +4,10 @@
 	<!-- https://shields.io/ -->
 	<div id="badges">
   		<a href="your-linkedin-URL">
-    		<img src="https://img.shields.io/badge/LinkedIn-0172B1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    			<img src="https://img.shields.io/badge/LinkedIn-0172B1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   		</a>
  		<a href="https://t.me/maneerlik">
-    		<img src="https://img.shields.io/badge/Telegram-2BA6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    			<img src="https://img.shields.io/badge/Telegram-2BA6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
  	 	</a>
 	</div>
 	<img src="https://komarev.com/ghpvc/?username=maneerlik&style=flat-square&color=F6B57A" alt=""/>
@@ -29,15 +29,31 @@ I am a Full Stack QA (Quality Assurance) Engineer from Russia.
 ### :hammer_and_wrench: Languages and Tools :
 
 <!-- https://github.com/devicons/devicon/ -->
-<div>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="37" height="37"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="37" height="37"/>&nbsp;
-	<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/allure.png" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/junit.png" title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/junit5.png" title="JUnit5" alt="JUnit5" width="35" height="35"/>&nbsp;
-	<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/mockito.png" title="Mockito" alt="Mockito" width="37" height="37"/>&nbsp;
-	<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/selenium.png" title="Selenium" alt="Selenium" width="35" height="35"/>&nbsp;
+<div id="logo">
+	<a href="https://docs.oracle.com/en/java/javase/index.html">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+	</a>&nbsp;
+	<a href="https://www.postgresql.org/docs/">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="37" height="37"/>
+	</a>&nbsp;
+	<a href="https://git-scm.com/">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="37" height="37"/>
+	</a>&nbsp;
+	<a href="https://docs.qameta.io/allure/">
+		<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/allure.png" title="Allure" alt="Allure" width="40" height="40"/>
+	</a>&nbsp;
+	<a href="https://junit.org/junit4/javadoc/latest/">
+		<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/junit.png" title="JUnit" alt="JUnit" width="40" height="40"/>
+	</a>&nbsp;
+	<a href="https://junit.org/junit5/docs/current/api/">
+		<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/junit5.png" title="JUnit5" alt="JUnit5" width="35" height="35"/>
+	</a>&nbsp;
+	<a href="https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html">
+		<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/mockito.png" title="Mockito" alt="Mockito" width="37" height="37"/>
+	</a>&nbsp;
+	<a href="https://www.selenium.dev/selenium/docs/api/java/overview-summary.html">
+		<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/selenium.png" title="Selenium" alt="Selenium" width="35" height="35"/>
+	</a>&nbsp;
 </div>
 
 ---
