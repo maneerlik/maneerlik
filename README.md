@@ -52,11 +52,11 @@ I am a Full Stack QA (Quality Assurance) Engineer from Russia.
 	</a>&nbsp;
 	<!-- jenkins -->
 	<a href="https://www.jenkins.io/doc/book/">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="37" height="37"/>
+		<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>
 	</a>&nbsp;
 	<!-- docker -->
 	<a href="https://docs.docker.com/reference/">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="37" height="37"/>
+		<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
 	</a>&nbsp;
 	<!-- allure -->
 	<a href="https://docs.qameta.io/allure/">
@@ -70,6 +70,10 @@ I am a Full Stack QA (Quality Assurance) Engineer from Russia.
 	<a href="https://junit.org/junit5/docs/current/api/">
 		<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/junit5.png" title="JUnit5" alt="JUnit5" width="35" height="35"/>
 	</a>&nbsp;
+	<!-- rest_assured -->
+	<a href="https://www.javadoc.io/doc/io.rest-assured/rest-assured/latest/index.html">
+		<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/restassured.png" title="REST_Assured" alt="REST_Assured" width="35" height="35"/>
+	</a>&nbsp;
 	<!-- mockito -->
 	<a href="https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html">
 		<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/mockito.png" title="Mockito" alt="Mockito" width="37" height="37"/>
@@ -78,9 +82,9 @@ I am a Full Stack QA (Quality Assurance) Engineer from Russia.
 	<a href="https://www.selenium.dev/selenium/docs/api/java/overview-summary.html">
 		<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/selenium.png" title="Selenium" alt="Selenium" width="35" height="35"/>
 	</a>&nbsp;
-	<!-- rest_assured -->
-	<a href="https://www.javadoc.io/doc/io.rest-assured/rest-assured/latest/index.html">
-		<img src="https://github.com/maneerlik/common/raw/main/pic/logo/png/restassured.png" title="REST_Assured" alt="REST_Assured" width="35" height="35"/>
+	<!-- selenide -->
+	<a href="https://ru.selenide.org/javadoc.html">
+		<img src="https://github.com/maneerlik/common/raw/main/pic/logo/svg/Selenide.svg" title="Selenide" alt="Selenide" width="35" height="35"/>
 	</a>&nbsp;
 </div>
 
