@@ -34,6 +34,10 @@ I am a Full Stack QA (Quality Assurance) Engineer from Russia.
 	<a href="https://docs.oracle.com/en/java/javase/index.html">
 		<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 	</a>&nbsp;
+	<!-- kotlin -->
+	<a href="https://kotlinlang.org/docs/home.html">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="35" height="35"/>
+	</a>&nbsp;
 	<!-- idea -->
 	<a href="https://www.jetbrains.com/ru-ru/idea/">
 		<img src="https://github.com/maneerlik/common/raw/main/pic/logo/svg/Intelij_IDEA.svg" title="idea" alt="idea" width="40" height="40"/>
