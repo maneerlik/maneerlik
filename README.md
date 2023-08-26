@@ -26,7 +26,7 @@ I am a Full Stack QA (Quality Assurance) Engineer from Russia.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Used Languages and Tools :
 
 <!-- https://github.com/devicons/devicon/ -->
 <div id="logo">
@@ -39,7 +39,7 @@ I am a Full Stack QA (Quality Assurance) Engineer from Russia.
 		<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="35" height="35"/>
 	</a>&nbsp;
 	<!-- idea -->
-	<a href="https://www.jetbrains.com/ru-ru/idea/">
+	<a href="https://www.jetbrains.com/help/idea/getting-started.html">
 		<img src="https://github.com/maneerlik/common/raw/main/pic/logo/svg/Intelij_IDEA.svg" title="idea" alt="idea" width="40" height="40"/>
 	</a>&nbsp;
 	<!-- git -->
