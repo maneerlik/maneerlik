@@ -3,12 +3,17 @@
 	<img src="https://github.com/maneerlik/common/raw/main/pic/programmer.png" width="100"/>
 	<!-- https://shields.io/ -->
 	<div id="badges">
-  		<a href="your-linkedin-URL">
+		<!--
+  		<a href="linkedin-URL">
     			<img src="https://img.shields.io/badge/LinkedIn-0172B1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   		</a>
- 		<a href="https://t.me/maneerlik">
+		-->
+		 <a href="https://t.me/maneerlik">
     			<img src="https://img.shields.io/badge/Telegram-2BA6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
  	 	</a>
+		<a href="https://wa.me/qr/A3ZKRX35YMJRG1">
+    			<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  		</a>
 	</div>
 	<img src="https://komarev.com/ghpvc/?username=maneerlik&style=flat-square&color=F6B57A" alt=""/>
 	<h1>
